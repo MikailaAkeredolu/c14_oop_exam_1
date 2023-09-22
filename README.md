@@ -1,9 +1,10 @@
 # c14_oop_exam_1
 
+![Screen Shot 2023-09-22 at 2 23 35 PM](https://github.com/MikailaAkeredolu/c14_oop_exam_1/assets/10773482/4c9d838a-f2eb-4cc3-984a-1dc601bdd92d)
 
 ## Start a brand new Project in intelliJ
 
-- Use the UML to answer the following questions
+- Use the UML to answer the following questions to the best of your ability before 3:45pm today!!!
 
 
    ## Leverage the 3 Clothing objects sample data below
