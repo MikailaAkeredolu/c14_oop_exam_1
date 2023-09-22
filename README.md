@@ -1,6 +1,6 @@
 # c14_oop_exam_1
 
-![Screen Shot 2023-09-22 at 2 23 35 PM](https://github.com/MikailaAkeredolu/c14_oop_exam_1/assets/10773482/4c9d838a-f2eb-4cc3-984a-1dc601bdd92d)
+![Screen Shot 2023-09-22 at 3 18 35 PM](https://github.com/MikailaAkeredolu/c14_oop_exam_1/assets/10773482/237595d4-ce08-40dd-9509-1f0c68675eb1)
 
 ## Start a brand new Project in intelliJ
 
